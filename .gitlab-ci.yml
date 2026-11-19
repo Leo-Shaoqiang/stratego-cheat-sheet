@@ -1,0 +1,11 @@
+image: node:18-alpine
+
+pages:
+  stage: deploy
+  script:
+    - npx @gitbook/cli build . public || mkdir -p public && cp README.md public/index.html
+  artifacts:
+    paths:
+      - public
+  only:
+    - main
