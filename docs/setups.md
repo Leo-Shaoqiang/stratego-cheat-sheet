@@ -2,7 +2,7 @@
 
 Battle-tested opening formations and strategic board layouts for competitive and casual play.
 
-Reference: [Interactive Board Setups](https://strategocheatsheet.com/#setups)
+Reference: [Interactive Board Setups](https://strategocheatsheets.com/#setups)
 
 ---
 

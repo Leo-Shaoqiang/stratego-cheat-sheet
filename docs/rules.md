@@ -2,7 +2,7 @@
 
 The comprehensive, quick-reference guide to the classic game of battlefield strategy.
 
-Reference: [Stratego Rules Online](https://strategocheatsheet.com/#rules)
+Reference: [Stratego Rules Online](https://strategocheatsheets.com/#rules)
 
 ---
 
@@ -49,4 +49,4 @@ When a piece moves into a square occupied by an opposing piece, an attack occurs
 3. If both pieces have the **identical rank**, both pieces are defeated and removed from the board.
 4. The winning piece occupies the contested square.
 
-For instant adjudication without manual lookups, use the [Battle Judge Calculator](https://strategocheatsheet.com/).
+For instant adjudication without manual lookups, use the [Battle Judge Calculator](https://strategocheatsheets.com/).

@@ -2,7 +2,7 @@
 
 Combat hierarchy and resolution logic for Classic and Modern Stratego editions.
 
-Reference: [Instant Battle Judge Tool](https://strategocheatsheet.com/)
+Reference: [Instant Battle Judge Tool](https://strategocheatsheets.com/)
 
 ---
 

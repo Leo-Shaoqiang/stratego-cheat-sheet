@@ -1,8 +1,8 @@
-# Stratego Tactical Companion — Official Documentation [![Live Tool](https://img.shields.io/badge/Live_Tool-StrategoCheatSheet.com-blue?style=flat&logo=safari)](https://strategocheatsheet.com/) [![GitBook Docs](https://img.shields.io/badge/GitBook-Documentation-6844ff?style=flat&logo=gitbook)](https://flopkit.gitbook.io/stratego-rules-and-cheat-sheet/) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+# Stratego Tactical Companion — Official Documentation [![Live Tool](https://img.shields.io/badge/Live_Tool-strategocheatsheets.com-blue?style=flat&logo=safari)](https://strategocheatsheets.com/) [![GitBook Docs](https://img.shields.io/badge/GitBook-Documentation-6844ff?style=flat&logo=gitbook)](https://flopkit.gitbook.io/stratego-rules-and-cheat-sheet/) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 > Open-source tactical companion, combat resolution engine (Battle Judge), and rules reference for the tabletop board game **Stratego**.
 
-- 🌐 **Live Web Application**: [https://strategocheatsheet.com/](https://strategocheatsheet.com/)
+- 🌐 **Live Web Application**: [https://strategocheatsheets.com/](https://strategocheatsheets.com/)
 - 📖 **Official GitBook Space**: [https://flopkit.gitbook.io/stratego-rules-and-cheat-sheet/](https://flopkit.gitbook.io/stratego-rules-and-cheat-sheet/)
 - 📦 **GitLab / GitHub Repository**: [https://github.com/Leo-Shaoqiang/stratego-cheat-sheet](https://github.com/Leo-Shaoqiang/stratego-cheat-sheet)
 
